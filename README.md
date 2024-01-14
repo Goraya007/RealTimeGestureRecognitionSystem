@@ -9,8 +9,6 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ## About The Project
 This project involves the implementation of keypoint detection in images and videos using computer vision and machine learning techniques. It leverages OpenCV for image processing, MediaPipe for keypoints extraction, and TensorFlow for neural network model training.
@@ -32,7 +30,7 @@ Ensure you have Python installed on your machine. The project also requires seve
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Goraya007/RealTimeGestureRecognitionSystem.git
    ```
 2. Install required Python packages
    ```sh
@@ -49,9 +47,9 @@ python keypoint_final_code.py
 Contributions make the open-source community an amazing place to learn, grow, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b branchname`)
+3. Commit your Changes (`git commit -m 'Add some commit'`)
+4. Push to the Branch (`git push origin branchname`)
 5. Open a Pull Request
 
 ## License
