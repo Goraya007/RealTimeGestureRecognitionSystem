@@ -1,36 +1,61 @@
-# RealTimeGestureRecognitionSystem
-Overview
+# Keypoint Detection Project
 
-This repository contains a Python application for keypoint detection in images and videos. It utilizes OpenCV for image processing, MediaPipe for keypoints extraction, and TensorFlow for building and training a neural network model.
+## Table of Contents
+- [About The Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-Features
+## About The Project
+This project involves the implementation of keypoint detection in images and videos using computer vision and machine learning techniques. It leverages OpenCV for image processing, MediaPipe for keypoints extraction, and TensorFlow for neural network model training.
 
-Real-time keypoint detection using MediaPipe.
-Neural network model training with TensorFlow and Keras.
-Image and video processing using OpenCV.
-Visualization of keypoints.
-Requirements
+### Built With
+- [Python](https://www.python.org/)
+- [OpenCV](https://opencv.org/)
+- [MediaPipe](https://google.github.io/mediapipe/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
 
-Python 3.x
-OpenCV
-NumPy
-Matplotlib
-MediaPipe
-TensorFlow
-Scikit-learn
+## Getting Started
+To get a local copy up and running, follow these simple steps.
 
-Installation
+### Prerequisites
+Ensure you have Python installed on your machine. The project also requires several Python libraries which can be installed via pip.
 
-To install the necessary libraries, run:
-pip install opencv-python numpy matplotlib mediapipe tensorflow scikit-learn
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install required Python packages
+   ```sh
+   pip install opencv-python numpy matplotlib mediapipe tensorflow scikit-learn
+   ```
 
-Usage
-
-To run the keypoint detection script, execute:
+## Usage
+Run the script to start keypoint detection:
+```sh
 python keypoint_final_code.py
+```
 
-Contributing
+## Contributing
+Contributions make the open-source community an amazing place to learn, grow, and create. Any contributions you make are **greatly appreciated**.
 
-Contributions to this project are welcome. Please fork the repository and submit a pull request.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
 
 
